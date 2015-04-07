@@ -38,6 +38,6 @@
 | :---: | :--- |
 | history | Song was recently played. Move DJ to pos 15 |
 | nsfw | Not Safe For Work. Song was inappropriate. No move |
-| op | Song is on the overplayed list. Move DJ to pos 15 |
+| op | Song is on the overplayed list. Move DJ to pos 5 |
 | parody | Song is a parody. No move |
 | theme | Song is not EDM themed. No move |
