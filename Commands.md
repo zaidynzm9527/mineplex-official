@@ -24,14 +24,14 @@
 | :---: | :---: |
 | 1 | 1 hour |
 | 2 | 1 day |
-| 3 | Permanent |
+| 3 | Permanent (Bouncer+ only) |
 
 ####!MUTE Durations
 | Severity | Duration |
 | :---: | :---: |
 | 1 | 15 minutes |
 | 2 | 30 minutes |
-| 3 | 45 minutes |
+| 3 | 45 minutes (Bouncer+ only) |
 
 ####!SKIP Reasons
 | Reason | Description |
