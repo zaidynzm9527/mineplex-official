@@ -39,6 +39,7 @@
 ####!SKIP Reasons
 | Reason | Description |
 | :---: | :--- |
+| error | Song did not play. Move DJ to pos 15 |
 | history | Song was recently played. Move DJ to pos 15 |
 | nsfw | Not Safe For Work. Song was inappropriate. No move |
 | meh | Song received too many mehs. No move |
