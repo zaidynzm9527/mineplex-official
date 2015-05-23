@@ -13,7 +13,7 @@
 | !dc | !dc @`USERNAME` | The same as !dc but for another user | Resident DJ |
 | !eta | !eta @`USERNAME` | The same as !eta but for another user | Resident DJ |
 | !mute | !mute @`USERNAME` `1/2/3` | Mutes the specified user for the specified amount of time | Resident DJ |
-| !skip | !skip `REASON` | Skips the current DJ. Parameter `REASON` is optional. Re-adds user depending on the `REASON` | Resident DJ |
+| !skip | !skip `REASON` | Skips the current DJ. Re-adds user depending on the `REASON` | Resident DJ |
 | | | |
 | !ba | !ba | Displays information about Brand Ambassadors | User |
 | !commands | !commands | Displays a link to a list of commands | User |
