@@ -4,7 +4,9 @@
 | :---: | :---: | :--- | :---: |
 | !kill | !kill | Stops the bot | Manager |
 | | | |
+| !autoskip | !autoskip | Automatically skips songs with the circle bug | Bouncer |
 | !clearchat | !clearchat @`USERNAME` | Deletes every message the specified user has sent | Bouncer |
+| !lookup | !lookup @`USERNAME` / `USERID` | Displays the Username & User ID of the specified user | Bouncer |
 | !move | !move @`USERNAME` `POS` | Moves the specified user to the specified position on the waitlist | Bouncer |
 | | | |
 | !ban | !ban @`USERNAME` `1/2/3` | Bans the specified user for the specified amount of time | Resident DJ |
