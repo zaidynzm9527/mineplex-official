@@ -44,5 +44,6 @@
 | nsfw | Not Safe For Work. Song was inappropriate. No move |
 | meh | Song received too many mehs. No move |
 | op | Song is on the overplayed list. Move DJ to pos 5 |
+| outro | Song has an outro. Should only be used when outro starts. No move |
 | parody | Song is a parody. No move |
 | theme | Song is not EDM themed. No move |
