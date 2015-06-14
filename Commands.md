@@ -47,3 +47,4 @@
 | outro | Song has an outro. Should only be used when outro starts. No move |
 | parody | Song is a parody. No move |
 | theme | Song is not EDM themed. No move |
+| troll | Song is a troll song. No move |
