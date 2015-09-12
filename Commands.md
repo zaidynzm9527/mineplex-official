@@ -20,6 +20,7 @@
 | !dc | !dc | Moves the command sender to their most recent position in the waitlist if they disconnected or accidentally left | User |
 | !eta | !eta | Displays the estimated time upon arriving to the booth | User |
 | !op | !op | Displays a link to the list of overplayed songs | User |
+| !help | !help | Displays a link to a guide on PlugDJ | User |
 | !rules | !rules | Displays a link to a thread, containing information and rules | User |
 
 ####!BAN Durations
@@ -39,11 +40,11 @@
 ####!SKIP Reasons
 | Reason | Description |
 | :---: | :--- |
-| error | Song did not play. Move DJ to pos 15 |
+| error | Song did not play. Move DJ to pos 5 |
 | history | Song was recently played. Move DJ to pos 15 |
 | nsfw | Not Safe For Work. Song was inappropriate. No move |
 | meh | Song received too many mehs. No move |
-| op | Song is on the overplayed list. Move DJ to pos 5 |
+| op | Song is on the overplayed list. Move DJ to pos 10 |
 | outro | Song has an outro. Should only be used when outro starts. No move |
 | parody | Song is a parody. No move |
 | theme | Song is not EDM themed. No move |
